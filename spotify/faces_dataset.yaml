@@ -1,0 +1,5 @@
+train: C:\Users\joaoa\PycharmProjects\spotify\training_images\train\images
+val: C:\Users\joaoa\PycharmProjects\spotify\training_images\train\images
+
+nc: 3
+names: ['Joao', 'Paulo', 'Jorge']

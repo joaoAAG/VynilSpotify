@@ -1,0 +1,5 @@
+train: C:\Users\joaoa\PycharmProjects\spotify\dataset\images
+val: C:\Users\joaoa\PycharmProjects\spotify\dataset\images
+
+nc: 11  # Number of classes
+names: ['Michael Jackson - Bad', 'AC/DC - Highway to Hell', 'AC/DC - High Voltage','Neil Diamond - Sweet Caroline', 'Tina Turner - Private Dancer', 'Beatles - Rubber Soul', "Kendrick Lamar - To pimp a Butterfly", 'ABBA - Super Trouper', 'Queen - Crazy Little Thing Called Love', 'Queen - Killer Queen', 'Elvis Presley - Hits']  # Class names
